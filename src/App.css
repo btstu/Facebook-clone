@@ -1,0 +1,9 @@
+*{
+margin: 0;
+}
+
+.app__body{
+    display:flex;
+    background-color: rgb(240, 240, 240);
+   
+}
